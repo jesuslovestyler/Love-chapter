@@ -1,6 +1,8 @@
-# 1 Corinthians 13 — The Love Chapter
+# The Love Chapter — 1 Corinthians 13
 
-1 Corinthians 13 presented verse by verse — *"the greatest of these is love."*
-A radiant, unhurried page with the full World English Bible text (public domain).
+The love chapter, 1 Corinthians 13, presented in full from the World English Bible: love is patient, love is kind — the more excellent way, read slowly.
 
-Built with Muse artifacts.
+**Live:** https://jesuslovestyler.github.io/Love-chapter/
+**Home:** https://jesuslovestyler.com/
+
+Scripture is quoted from the World English Bible, a public-domain translation. Released into the public domain (Unlicense — see LICENSE). Built by Tyler with Noki.
